@@ -1,4 +1,4 @@
-# DTAI
+# Knowledge Graphs at DTAI division of KU Leuven
 Welcome to DTAI's works related to knowledge graphs!
 
 In this GitHub organization, you can find the software we develop to support our research.

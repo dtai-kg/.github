@@ -19,3 +19,8 @@ It consists of:
 - **SCOOP** (https://github.com/dtai-kg/SCOOP) integrates SHACL shapes which were extracted from different artifacts.
 - **XSD2SHACL** (https://github.com/dtai-kg/XSD2SHACL) extracts SHACL shapes from XMLSchema.
 - **SCOOP-UI** (https://github.com/dtai-kg/SCOOP-UI) provides a user interface to interact with SCOOP and extract SHACL shpes. 
+
+### **TorchicTab**
+TorchicTab automatically understands tables and provides annotations for these tables.
+
+You can read more about TorchicTab at DTAI's stories: https://dtai.cs.kuleuven.be/stories/post/anastasia-dimou/torchictab/

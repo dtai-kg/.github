@@ -10,7 +10,7 @@ It consists of:
 - **MLSea-KGC** (https://github.com/dtai-kg/MLSea-Discover) provides the source code used to create MLSea-KG.
 - [**MLsea-KG**](http://w3id.org/mlsea-kg) is a knowledge graph with concepts related to ML.
 - [**MLSO**](https://w3id.org/mlso) (https://github.com/dtai-kg/MLSO) is an ontology to describe ML related topics.
-- [**MLSeascape**](http://w3id.org/mlseascape) (https://github.com/dtai-kg/MLSeascape) is a UI to search over the MLSea knowledge graph.
+- [**MLSeascape**](http://w3id.org/mlseascape) (https://github.com/dtai-kg/MLSeascape) is a UI to search over the MLSea knowledge graph. ([video](https://youtu.be/jn-GGwm52EM?feature=shared))
 
 ### **SCOOP** 
 
@@ -18,7 +18,8 @@ SCOOP extracts constraints from the data's schema, ontology and mappings to crea
 It consists of:
 - **SCOOP** (https://github.com/dtai-kg/SCOOP) integrates SHACL shapes which were extracted from different artifacts.
 - **XSD2SHACL** (https://github.com/dtai-kg/XSD2SHACL) extracts SHACL shapes from XMLSchema.
-- [**SCOOP-UI**](https://demos.citius.usc.es/scoop/#doc) (https://github.com/dtai-kg/SCOOP-UI) provides a user interface to interact with SCOOP and extract SHACL shpes. 
+- [**SCOOP-UI**](https://demos.citius.usc.es/scoop/#doc) (https://github.com/dtai-kg/SCOOP-UI) provides a user interface to interact with SCOOP and extract SHACL shpes.
+  ([video](https://youtu.be/A3kocY7ysjs?feature=shared)) 
 
 ### **TorchicTab**
 TorchicTab automatically understands tables and provides annotations for these tables.

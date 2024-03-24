@@ -23,8 +23,8 @@ SCOOP extracts constraints from the data's schema, ontology and mappings to crea
 It consists of:
 - **SCOOP** (https://github.com/dtai-kg/SCOOP) integrates SHACL shapes which were extracted from different artifacts.
 - **XSD2SHACL** (https://github.com/dtai-kg/XSD2SHACL) extracts SHACL shapes from XMLSchema.
-- [**SCOOP-UI**](https://demos.citius.usc.es/scoop/#doc) (https://github.com/dtai-kg/SCOOP-UI) provides a user interface to interact with SCOOP and extract SHACL shpes.
-  ([video](https://youtu.be/A3kocY7ysjs?feature=shared))
+- [**SCOOP-UI**](https://demos.citius.usc.es/scoop/#doc) (https://github.com/dtai-kg/SCOOP-UI) provides a user interface to interact with SCOOP and extract SHACL shapes.
+  ([video](https://youtu.be/A3kocY7ysjs?feature=shared)).
 
 The research on SCOOP is partially funded by the following projects: 
 [KG3D](https://w3id.org/kg3d/)

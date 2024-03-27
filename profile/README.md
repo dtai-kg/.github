@@ -7,7 +7,7 @@ In this GitHub organization, you can find the software we develop to support our
 
 [MLSea](http://w3id.org/mlsea/) includes a set of software developed to create and explore metadata about ML concepts.
 It consists of:
-- **MLSea-KGC** (https://github.com/dtai-kg/MLSea-Discover) provides the source code used to create MLSea-KG.
+- **MLSea-KGC** (https://github.com/dtai-kg/MLSea-KGC) provides the source code used to create MLSea-KG.
 - [**MLsea-KG**](http://w3id.org/mlsea-kg) is a knowledge graph with concepts related to ML.
 - [**MLSO**](https://w3id.org/mlso) (https://github.com/dtai-kg/MLSO) is an ontology to describe ML related topics.
 - [**MLSeascape**](http://w3id.org/mlseascape) (https://github.com/dtai-kg/MLSeascape) is a UI to search over the MLSea knowledge graph. ([video](https://youtu.be/jn-GGwm52EM?feature=shared))

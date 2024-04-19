@@ -19,7 +19,7 @@ The research on MLSea is partially funded by the following projects:
 
 ### **SCOOP** 
 
-SCOOP extracts constraints from the data's schema, ontology and mappings to create SHACL shapes.
+[SCOOP](https://dtai-kg.github.io/SCOOP/) extracts constraints from the data's schema, ontology and mappings to create SHACL shapes.
 It consists of:
 - **SCOOP** (https://github.com/dtai-kg/SCOOP) integrates SHACL shapes which were extracted from different artifacts.
 - **XSD2SHACL** (https://github.com/dtai-kg/XSD2SHACL) extracts SHACL shapes from XMLSchema.

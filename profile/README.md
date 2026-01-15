@@ -39,8 +39,8 @@ The research on TorchicTab is partially funded by the following projects:
 [REXPEK](https://rexpek.github.io/) and
 [FAIR](https://www.flandersairesearch.be/en).
 
-### **PG-to-RDF RML Mappings**
-[PG-to-RDF-RML-Templates](https://github.com/dtai-kg/PG-to-RDF-RML-Templates) provides a collection of RML template mappings designed to translate property graphs into RDF graphs, following various translation techniques.
+### **PG-to-RDF**
+[PG-to-RDF RML](https://github.com/dtai-kg/PG-to-RDF-RML-Templates) provides a collection of RML template mappings designed to translate property graphs into RDF graphs, following various translation techniques.
 
 For a detailed explanation of how property graphs can be mapped to RDF graphs using RML, please refer to the publication: [**Flexible RML-Based Mapping of Property Graphs to RDF**](https://ceur-ws.org/Vol-3946/TGD-2.pdf)
 

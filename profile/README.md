@@ -38,3 +38,9 @@ The research on TorchicTab is partially funded by the following projects:
 [KG3D](https://w3id.org/kg3d/),
 [REXPEK](https://rexpek.github.io/) and
 [FAIR](https://www.flandersairesearch.be/en).
+
+
+### **Ontologies**
+- [**MLSO**](https://w3id.org/mlso) (https://github.com/dtai-kg/MLSO) is an ontology to describe ML related topics.
+- [**CACAO**](http://w3id.org/cacao/) (https://github.com/REEVALUATE/CACAO) is an ontology to describe cultural heritage artifacts.
+- [**GLUE**](https://w3id.org/glue) (https://github.com/dtai-kg/GLUE-Ontology) is an ontology to describe ML related topics.
